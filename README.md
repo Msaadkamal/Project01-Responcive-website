@@ -1,1 +1,2 @@
-# Project01-Responcive-website
+# Multi-Page Univarsity Website
+It is a responcive Multi-Page Website Home-Page,About-Page,Cources-page,Blog-page,Content-page, Use Html and CSS to develop it the main html Functinality use navbar,cards,button,form,samantic and non-Samantic tags,use map and the  css main funtionality use flex-Box,Box-Model,position,Display Property use trancition property in images and use media quary to respocive every page
